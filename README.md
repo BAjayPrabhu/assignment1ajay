@@ -7,11 +7,13 @@
 <h1>My IT Profile</h1>
 <p>![FB_IMG_1614463039031](https://user-images.githubusercontent.com/80736356/111984211-fb0a3600-8b5a-11eb-98cd-9c5644ccc34f.jpg)
 <p><img src="FB_IMG_1614463039031.jpg"</p>
-<p>*Bantval Ajay Prabhu
-<- *Student Number: s3910897
-<- *Email: s3910897@student.rmit.edu.au
-<- *Mobile: +61 458 106 792
-<- *Website: </p>
+<ul>
+  <li>Bantval Ajay Prabhu
+  <li>Student Number: s3910897</li>
+  <li>Email: s3910897@student.rmit.edu.au</li>
+  <li>Mobile: +61 458 106 792</li>
+  <li>Website:</li>
+</ul>
 <h1>Personal Information</h1>
 <p>Born in Melbourne and raised in Adelaide, Australia to immigrant parents I unfortunately speak only one language, English. One of these days I might recruit a Babbel course in Italian or Indian and step in where my parents left off. Luckily for myself and my siblings the cultural fusion of our parents made for the best cuisine growing up. After finishing at Blackwood High School, I’ve worked in agriculture since 2016. In my spare time I play acoustic guitar, appreciate wine and whiskey, and take my dog Winston for hikes.</p>
 </body>
