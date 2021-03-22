@@ -5,7 +5,9 @@
 </head>
 <body>
 <h1>My IT Profile</h1>
-<p># s3910897
+<p>
+<p>Bantval Ajay Prabhu
+Student Number: s3910897
 Email: s3910897@student.rmit.edu.au
 Mobile: +61 458 106 792
 Website: </p>
@@ -22,7 +24,6 @@ By taking this course I’m aiming at a career shift, for an industry which is b
 <h3>My Ideal Job</h3>
 <p>Content about me...</p>
 <h1>My Personality Profiles</h1>
-<p> ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 <p>![MB Test Results](https://user-images.githubusercontent.com/80736356/111966998-72ce6580-8b47-11eb-969c-3febe338be9b.jpg)
 </p>
 <p>![Big Five main](https://user-images.githubusercontent.com/80736356/111967058-84177200-8b47-11eb-938f-3467f03cdbfa.jpg)
