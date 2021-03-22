@@ -5,7 +5,7 @@
 </head>
 <body>
 <h1>My IT Profile</h1>
-<p>
+<p>![FB_IMG_1614463039031](https://user-images.githubusercontent.com/80736356/111984211-fb0a3600-8b5a-11eb-98cd-9c5644ccc34f.jpg)
 <p>Bantval Ajay Prabhu
 Student Number: s3910897
 Email: s3910897@student.rmit.edu.au
