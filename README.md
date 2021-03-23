@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<body style="background-color:powderbluer;">
+<body style="background-color:powderblue;">
 <head>
 <title>Assignment 1</title>
 </head>
