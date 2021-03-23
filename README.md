@@ -1,9 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-<body>
-<div style="background-image: url('goodwp.com-29723.jpg');">
-</body>
+<style>
+body {background-color: SlateBlue;}
+h1   {color: Tomato;}
+p    {color: Orange;}
+</style>
 </head>
 <head>
 <title>Assignment 1</title>
@@ -46,5 +48,6 @@ By taking this course I’m aiming at a career shift, for an industry which is b
 <h5>Project</h5>
 <p>Content about me...</p>
 <p><img src="MB Test Results.jpg" alt="Smiley face" style="float:left;width:42px;height:42px;">
+what does this image say about my current skillset.</p>
 </body>
 </html>
