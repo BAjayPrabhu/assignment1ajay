@@ -37,3 +37,6 @@ By taking this course I’m aiming at a career shift, for an industry which is b
 </html>
 <h5>Project</h5>
 <p>Content about me...</p>
+<p title="I'm a tooltip">This is a paragraph.</p>
+</body>
+</html>
