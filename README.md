@@ -1,13 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-<style>
-body {background-color: SlateBlue;}
-h1   {color: Tomato;}
-p    {color: Orange;}
-</style>
-</head>
-<head>
 <title>Assignment 1</title>
 </head>
 <body>
@@ -23,18 +16,24 @@ p    {color: Orange;}
 </body>
 </html>
 <head>
+<style>
+body {background-color: SlateBlue;}
+h1   {color: Tomato;}
+p    {color: Orange;}
+</style>
+</head>
 <body>
 <h1>Personal Information</h1>
 <p>Born in Melbourne and raised in Adelaide, Australia to immigrant parents I unfortunately speak only one language, English. One of these days I might recruit a Babbel course in Italian or Indian and step in where my parents left off. Luckily for myself and my siblings the cultural fusion of our parents made for the best cuisine growing up. After finishing at Blackwood High School, I’ve worked in agriculture since 2016. In my spare time I play acoustic guitar, appreciate wine and whiskey, and take my dog Winston for hikes.</p>
 </body>
 </html>
-<h2>Interest in IT</h2>
+<h1>Interest in IT</h1>
 <p>IT has always been interesting to me whether it was the arrival of GPS systems alleviating the need to be a constant front seat navigator. The steady rise of gaming, which was a great relief from having only one boardgame, monopoly. This led to me being the household IT support, whereby I would turn it of and on again and to the amazement of my parents, it worked.
 By taking this course I’m aiming at a career shift, for an industry which is becoming more and more prevalent in our daily lives. I’m quite interested in how IT is being used for everyday assistance, for example, the Alexa, Siri and Google Home programs. Another field of IT which has drawn my interest though I currently understand it only a little, is Deep Learning.
 </p>
 </body>
 </html>
-<h3>My Ideal Job</h3>
+<h1>My Ideal Job</h1>
 <p>Content about me...</p>
 <h1>My Personality Profiles</h1>
 <img src="MB Test Results.jpg" style="width:500px;height:600px;">
@@ -45,7 +44,7 @@ By taking this course I’m aiming at a career shift, for an industry which is b
 <p>If I were to form a team, my primary concerns would be assembling a group who had as few points of friction and ease of communication as possible. As I am of a Debater personality I would perhaps prefer not to have to many similar people on the team as that may eventuate in too much discussion and too little action. It would also be beneficial to have someone on the team more oriented toward action and confirming a final decision. </p>
 </body>
 </html>
-<h5>Project</h5>
+<h1>Project</h1>
 <p>Content about me...</p>
 <p><img src="MB Test Results.jpg" alt="Smiley face" style="float:left;width:42px;height:42px;">
 what does this image say about my current skillset.</p>
