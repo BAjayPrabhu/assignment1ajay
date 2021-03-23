@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<body background="20160714_132743.jpg">
+<body background="1920x1080_leather-minimalistic-wood-wallpaper.jpg">
 <head>
 <title>Assignment 1</title>
 </head>
