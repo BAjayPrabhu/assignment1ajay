@@ -3,7 +3,7 @@
 <head>
 <title>Assignment 1</title>
 </head>
-<body background="20160714_132743.jpg"
+<body background="20160714_132743.jpg">
 </head>
 <body>
 <h1>My IT Profile</h1>
