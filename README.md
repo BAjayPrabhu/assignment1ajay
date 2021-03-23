@@ -1,12 +1,19 @@
 <!DOCTYPE html>
 <html>
-<div style="background-image: ('20160714_132743.jpg');">
+<style>
+body {
+  background-image: url('20160714_132743.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+</style>
 <head>
 <title>Assignment 1</title>
 </head>
 <body>
 <h1>My IT Profile</h1>
-<p><img src="FB_IMG_1614463039031.jpg"</p>
+<p><img src="FB_IMG_1614463039031.jpg" style="width:500px;height:600px;"></p>
 <p><ul>
   <li>Bantval Ajay Prabhu
   <li>Student Number: s3910897</li>
