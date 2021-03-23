@@ -1,8 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-<body style="background-color:powderblue;">
 <body>
+<div style="background-image: url('goodwp.com-29723.jpg');">
+</body>
+</head>
 <head>
 <title>Assignment 1</title>
 </head>
@@ -16,6 +18,10 @@
   <li>Mobile: +61 458 106 792</li>
   <li>Website:</li>
 </ul></p>
+</body>
+</html>
+<head>
+<body>
 <h1>Personal Information</h1>
 <p>Born in Melbourne and raised in Adelaide, Australia to immigrant parents I unfortunately speak only one language, English. One of these days I might recruit a Babbel course in Italian or Indian and step in where my parents left off. Luckily for myself and my siblings the cultural fusion of our parents made for the best cuisine growing up. After finishing at Blackwood High School, I’ve worked in agriculture since 2016. In my spare time I play acoustic guitar, appreciate wine and whiskey, and take my dog Winston for hikes.</p>
 </body>
@@ -39,5 +45,6 @@ By taking this course I’m aiming at a career shift, for an industry which is b
 </html>
 <h5>Project</h5>
 <p>Content about me...</p>
+<p><img src="MB Test Results.jpg" alt="Smiley face" style="float:left;width:42px;height:42px;">
 </body>
 </html>
