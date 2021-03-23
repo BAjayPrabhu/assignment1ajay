@@ -6,7 +6,7 @@
 </head>
 <body>
 <h1>My IT Profile</h1>
-<p><img src="FB_IMG_1614463039031.jpg"</p>
+<img src="FB_IMG_1614463039031.jpg" style="width:500px;height:600px;">
 <p><ul>
   <li>Bantval Ajay Prabhu
   <li>Student Number: s3910897</li>
