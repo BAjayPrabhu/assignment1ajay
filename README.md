@@ -1,11 +1,6 @@
 <!DOCTYPE html>
 <html>
-<style>
-body {
-  background-image: url('20160714_132743.jpg');
-  background-repeat: no-repeat;
-}
-</style>
+<div style="background-image: url('20160714_132743.jpg');">
 <head>
 <title>Assignment 1</title>
 </head>
