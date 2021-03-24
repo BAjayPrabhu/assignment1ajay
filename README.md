@@ -17,12 +17,6 @@
 </body>
 </html>
 <head>
-<style>
-body {background-color: SlateBlue;}
-h1   {color: Tomato;}
-p    {color: Orange;}
-</style>
-</head>
 <body>
 <h1>Personal Information</h1>
 <p>Born in Melbourne and raised in Adelaide, Australia to immigrant parents I unfortunately speak only one language, English. One of these days I might recruit a Babbel course in Italian or Indian and step in where my parents left off. Luckily for myself and my siblings the cultural fusion of our parents made for the best cuisine growing up. After finishing at Blackwood High School, I’ve worked in agriculture since 2016. In my spare time I play acoustic guitar, appreciate wine and whiskey, and take my dog Winston for hikes.</p>
