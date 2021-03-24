@@ -69,12 +69,11 @@ By taking this course I’m aiming at a career shift, for an industry which is b
   <p>In my personal life I have been working the last four years in agricultural industries and have seen first hand the convenience of automated systems, and the hassle of non-automated systems of irrigation. Manual systems are time-consuming and prevent someone from being able to go out to social events, attend to necessary work or even sink five hours into session of gaming when you need to get up and turn a tap on or off, or swap zones every half hour or hour (or longer). With a functional automated system, even a vacation might be possible without recruiting a distant relative’s friend to manage it while you’re away.</p>
   <p></p>
   <p></p>
+  <h2 style="text-align: center">Inline <em>heading</em></h2>
+  <p style="text-align: right>what does this yield as regards alignment of text to text</p>
+  <p style="text-align: left>supercalafregilisticexpialadocious</p>
   <p></p>
-  <p></p>
-
-    <p>Content about me...</p>
-      <p><img src="Images\MB Test Results.jpg" alt="" style="float:left;width:42px;height:42px;">
-      what does this image say about my current skillset.</p>
+  <img src="Images\MB Test Results.jpg" alt="" style="float:left;width:42px;height:42px;">
 </body>
 </html>
 <html>
