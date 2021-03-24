@@ -70,8 +70,8 @@ By taking this course I’m aiming at a career shift, for an industry which is b
   <p></p>
   <p></p>
   <h2 style="text-align: center">Inline <em>heading</em></h2>
-  <p style="text-align: right>what does this yield as regards alignment of text to text</p>
-  <p style="text-align: left>supercalafregilisticexpialadocious</p>
+  <p> style="text-align: right>what does this yield as regards alignment of text to text</p>
+  <p> style="text-align: left>how about this line, why wont it work?</p>
   <p></p>
 </body>
 </html>
