@@ -73,7 +73,6 @@ By taking this course I’m aiming at a career shift, for an industry which is b
   <p style="text-align: right>what does this yield as regards alignment of text to text</p>
   <p style="text-align: left>supercalafregilisticexpialadocious</p>
   <p></p>
-  <img src="Images\MB Test Results.jpg" alt="" style="float:center;width:20px;height:20px;">
 </body>
 </html>
 <html>
