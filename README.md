@@ -2,7 +2,7 @@
 <html>
   <head>
     <title>Assignment 1</title>
-    link href="css/style.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
   </head>
 <body>
   <h1>My IT Profile</h1>
