@@ -12,7 +12,7 @@
         <li>Student Number: s3910897</li>
         <li>Email: s3910897@student.rmit.edu.au</li>
         <li>Mobile: +61 458 106 792</li>
-        <li>Website:<a href="https://bajayprabhu.github.io/assignment1ajay/Assignment1.html"</a></li>
+        <li>Website: https://bajayprabhu.github.io/assignment1ajay/Assignment1.html</li>
       </ul></p>
   </body>
 </html>
