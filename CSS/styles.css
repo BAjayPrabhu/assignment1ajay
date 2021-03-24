@@ -1,10 +1,25 @@
-body {
-  background-color: B233FF;
-  color: F5EB27;
+body  {
+  background-color: #371C4D;
+  color:#EDF70B ;
+  font: Calibri;
+  font-size: 20px;
+
 }
 h1 {
-  color:EE0C1A;
+  color:#A8E631;
 }
 h2 {
-  color:0CE2EE;
+  color:#4AA624;
+}
+main {
+    background: #371C4D;
+    color: #EDF70B;
+    width: 750px;
+}
+header {
+    background: #371C4D;
+    color: #EDF70B;
+    width: 250px;
+a {
+    color: hotpink;
 }
